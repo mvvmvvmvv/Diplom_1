@@ -1,4 +1,4 @@
-# Diplom_1
+# Stellar_Burgers_unit_tests
 
 This is part 1/3 of my final project on Yandex.Prakticum course "Test automation with Java".
 
